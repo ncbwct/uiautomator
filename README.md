@@ -332,7 +332,7 @@ You can register [watcher](http://developer.android.com/tools/help/uiautomator/U
   d.watchers.reset()
   ```
 
-* Remvoe watchers
+* Remove watchers
 
   ```python
   # remove all registered watchers
